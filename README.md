@@ -1,2 +1,3 @@
 # git_test
-ubuntu git test
+First commit Ubuntu
+Hello Linux
